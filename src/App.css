@@ -113,6 +113,7 @@
 }
 .about{
   display:flex;
+  justify-content:space-between;
 }
 .grid-container{
   display:grid;
@@ -186,7 +187,7 @@
     padding-bottom: 3px;
   }
   .contactbackground{
-    background-image:url('C:\Users\DARINC\Documents\reactpj\public\contactbackground\backgroundContactSectionPage.png') ;
+    background-image:url('C:\Users\DARINC\Documents\Halo-Website\public\homeImage\backgroundcontact.png') ;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -340,7 +341,7 @@ cursor:pointer;
  cursor:pointer;
 }
 .contactbackground{
-  background-image:url('C:\Users\DARINC\Documents\reactpj\public\contactbackground\backgroundContactSectionPage.png') ;
+  background-image:url('C:\Users\DARINC\Documents\Halo-Website\public\homeImage\backgroundcontact.png') ;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
