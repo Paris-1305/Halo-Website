@@ -4,7 +4,7 @@ import './App.css';
 export default function Services(){
     return(
         <section className='grid' id='services'>
-            <div><br/>Heading:</div>
+            <div style={{paddingBottom:'90px'}}><br/>Heading:</div>
             <div className='grid-container'>
             <div><h2>01</h2>zero </div>
             <div><h2>02</h2><br/>mon</div>

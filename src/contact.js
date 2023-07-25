@@ -44,7 +44,7 @@ export default function Comtact(){
     value={form.message}
     onChange={handleInput}/>
     <ul onMouseOver={handleInput} ></ul>
-    <button className='btn' style={{marginTop:'5%', width:'150px', height:'70px', borderRadius:'3px', background:'transparent',border:'2px solid #fff', color:'white'}}>ENVOYER</button>
+    <button style={{marginTop:'5%', width:'150px', height:'70px', borderRadius:'3px', background:'transparent',border:'2px solid #fff', color:'white'}}>ENVOYER</button>
     </section>
     )
 }

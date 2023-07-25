@@ -3,13 +3,13 @@ import './App.css'
 export default function About(){
     return(
         <section className='about' id='about'>
-            <div style={{width:'40%'}}>Engagez, inspire,<br/>
+            <div style={{width:'30%',marginTop:'10%', fontSize:'30px',color:'orange'}}>Engagez, inspire,<br/>
             convertir.<br/>
             Des solution <br/>
             technologiques optimales<br/>
             pour faire evoluer entreprise.</div>
-            <div style={{fontSize:'20px', fontWeight:'300', width:'70%'}}>
-            Assister, inspirer, engagé<br/>
+            <div className='about-two' style={{fontSize:'23px', fontWeight:'300', width:'60%', marginTop:'80px'}}>
+            Assister, inspirer, engagé
 Nous proposons des solutions pour faciliter l’intégration des entreprises dans le monde du digital.<br/>
 Notre mission est de répondre au mieux à vos besoins en utilisant les meilleures technologies modernes. HALO vous accompagnera pour vous faire avancer votre projet. Nous nous arrimons à votre vision afin de résoudre au mieux vos problèmes de visibilité et de présence digitale. Nos experts sont prêts à mettre leur expérience à votre service. La proactivité, la créativité et l’efficacité, sont les valeurs partagées au sein de notre équipe.<br/> 
 Nous vous proposons :<br/>
