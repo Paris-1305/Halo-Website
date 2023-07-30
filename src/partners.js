@@ -29,7 +29,7 @@ export default function Partners(){
     ]
  const partner=  partnerdata.map(item=>{
     return(
- <div className='partimage'><img style={{width:'80%', height:'150px'}} src={item.img}/></div>
+ <div className='partimage'><img style={{width:'90%', height:'40vh'}} src={item.img}/></div>
     )
    })
     return(

@@ -4,10 +4,10 @@ export default function Footer(props){
     return(
         <footer className='footer'>
             <div className='footer-one'>
-                <div style={{marginRight:'-8opx'}}><p style={{color:'yellow'}}>HALO<br/>VOS IDEES<br/></p><span>NOS SUCCESS</span>OUR SERVICES<br/>
-                LET'S WORK TOGETHER<br/>
+                <div style={{marginRight:'-8opx'}}><p style={{color:'yellow'}}> <img style={{width:'70px'}} src="entete/NOIR.png"/>HALO<br/>VOS IDEES<br/></p><span>NOS SUCCESS</span>OUR SERVICES<br/>
+               LET'S WORK TOGETHER<br/>
                 HOW DO WE WORK<br/>
-                VICGEN OFFERS YOU<br/>
+                HALO OFFERS YOU<br/>
                 OUR EXPERTS<br/>
                 OUR ACHIEVEMENTS<br/>
                 CONTACT US</div>

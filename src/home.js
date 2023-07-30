@@ -5,7 +5,7 @@ import './App.css'
 export default function Home(){
     return(
         <section>
-        <Carousel >
+        <Carousel>
       <Carousel.Item>
        <img
        className='image'

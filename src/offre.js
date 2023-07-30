@@ -1,4 +1,5 @@
 import React from 'react';
+import {Link} from 'react-router-dom'
 import './App.css';
 export default function SectionFour(){
     return(
@@ -8,7 +9,7 @@ export default function SectionFour(){
                 <div>
                     <h2>idees creatives</h2><br/>
                     <p>De nouvel idees afin de vous<br/> 
-                    demarquer de la concurrence  </p>
+                    demarquer de la concurrence</p>
                 </div>
             </div>
             <div className='offre-deux'>

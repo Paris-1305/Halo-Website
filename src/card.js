@@ -28,7 +28,7 @@ export default function Card(){
     })
     return(
   <section className='cardSection'>
-    <div style={{fontStyle:'50px'}}>title</div>
+<h1 style={{paddingBottom:'50px'}}>TITLE</h1>
     <div className='grid-picture'>
    {items}</div>
   </section>
