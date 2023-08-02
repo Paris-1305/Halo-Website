@@ -1,10 +1,12 @@
 import React from 'react'
 import Carousel from 'react-bootstrap/Carousel';
+import Navigation from './navbar'
 //import ExampleCarouselImage from 'components/ExampleCarouselImage';
 import './App.css'
 export default function Home(){
     return(
         <section>
+          <Navigation/>
         <Carousel>
       <Carousel.Item>
        <img
